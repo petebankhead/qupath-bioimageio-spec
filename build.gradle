@@ -19,7 +19,7 @@ repositories {
 
 description = 'Support for parsing the BioImage Model Zoo spec in Java'
 
-version = "0.2.2"
+version = "0.2.3-rc1"
 
 dependencies {
     // These are included in QuPath distribution
